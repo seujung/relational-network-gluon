@@ -4,7 +4,7 @@
 
 Gluon inplement of [A simple neural module for relational reasoning](https://arxiv.org/abs/1706.01427)
 
-![net_structure](images/net_structure.png)
+![net_structure](images/network_structure.png)
 
 ## Requirements
 - Python 3.6.1
@@ -38,7 +38,7 @@ python main.py --batch_size=32 --epoches=100
 ```
 
 ## Results
-![perf_acc](images/perf_result_acc.png)
+![perf_acc](images/perf_result_auc.png)
 
 ![perf_loss](images/perf_result_loss.png)
 
