@@ -40,7 +40,7 @@ python main.py --batch_size=32 --epoches=100
 ## Results
 ![perf_acc](images/perf_result_acc.png)
 
-![perf_loss](images/perf_result_loss.png)
+![perf_loss](images/perf_result_ls.png)
 
 ## Reference
 - https://github.com/kimhc6028/relational-networks
