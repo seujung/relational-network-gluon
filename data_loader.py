@@ -4,7 +4,7 @@ import pickle
 
 def load_data():
     print('loading data...')
-    dirs = os.getcwd()
+    dirs = os.getcwd() +'/data/'
     filename = os.path.join(dirs,'sort-of-clevr.pickle')
     with open(filename, 'rb') as f:
         train_datasets, test_datasets = pickle.load(f)
