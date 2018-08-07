@@ -6,16 +6,16 @@ Gluon inplement if [A simple neural module for relational reasoning](https://arx
 
 
 ## Requirements
---
 - Python 3.6.1
 - Mxnet(1.2)
 - tqdm
 
 
 ## Usage
---
+
 
 ## Results
---
+
 
 ## Reference
+- https://github.com/kimhc6028/relational-networks
