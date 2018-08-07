@@ -9,6 +9,7 @@ Gluon inplement if [A simple neural module for relational reasoning](https://arx
 - Python 3.6.1
 - Mxnet(1.2)
 - tqdm
+- opencv-python
 
 
 ## Usage
@@ -19,17 +20,20 @@ Gluon inplement if [A simple neural module for relational reasoning](https://arx
   - GPU_COUNT : Use GPU count (default=2)
   - show_status : show loss and accuracy for each epoch (default=True)
 
+###### data generation
+```
+python sort-of-clevr.py
+``` 
 
-
-[defaut setting]
+###### default setting
 ```
 python main.py
 ``` 
 or
 
-[manual setting]
+###### manual setting
 ```
-python main.py --batch_size=32
+python main.py --batch_size=32 --epoches=100
 ```
 
 ## Results
