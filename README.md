@@ -12,23 +12,23 @@ Gluon inplement if [A simple neural module for relational reasoning](https://arx
 
 
 ## Usage
-```
-arguments
-batch_size : Define batch size (defualt=64)
-epoches : Define total epoches (default=50)
-GPU_COUNT : Use GPU count (default=2)
-show_status : show loss and accuracy for each epoch (default=True)
+
+- arguments
+  - batch_size : Define batch size (defualt=64)
+  - epoches : Define total epoches (default=50)
+  - GPU_COUNT : Use GPU count (default=2)
+  - show_status : show loss and accuracy for each epoch (default=True)
 
 
-```
 
+[defaut setting]
 ```
-[default setting]
 python main.py
 ``` 
 or
-```
+
 [manual setting]
+```
 python main.py --batch_size=32
 ```
 
