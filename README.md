@@ -12,7 +12,14 @@ Gluon inplement if [A simple neural module for relational reasoning](https://arx
 
 
 ## Usage
- >> python main.py
+```
+argument
+--batch_size : Setting batch size(defualt=64)
+```
+
+```
+ python main.py
+``` 
 
 ## Results
 
