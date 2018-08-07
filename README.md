@@ -1,1 +1,3 @@
-# relational-network-gluon
+# relational network with Gluon
+
+---
