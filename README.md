@@ -2,7 +2,7 @@
 
 ---
 
-Gluon inplement of [A simple neural module for relational reasoning](https://arxiv.org/abs/1706.01427)
+Gluon inplementation of [A simple neural module for relational reasoning](https://arxiv.org/abs/1706.01427)
 
 ![net_structure](images/network_structure.png)
 
